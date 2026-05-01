@@ -107,9 +107,9 @@ Sandra - UAV Monitoring System/
 
 | Name | Role |
 |---|---|
-| **Affaq** | Frontend Development, UI/UX Design |
-| **Amna** | UI/UX Collaboration, Feature Design |
-| **Kissa** | UI/UX Collaboration, Feature Design |
+| **Affaq** | 23k-0901 |
+| **Amna** | 23k-0856 |
+| **Kissa** | 23k-0760 |
 
 ---
 
