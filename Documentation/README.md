@@ -24,6 +24,31 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🔑 Login Screen
+![Login Screen](./screenshots/login.png)
+
+### 📊 Dashboard — Live Telemetry & Map
+![Dashboard](./screenshots/dashboard.png)
+
+### 📋 Flight Reports
+![Flight Reports](./screenshots/reports.png)
+
+### ⚙️ System Settings
+![System Settings](./screenshots/settings.png)
+
+### ⚠️ Wind Alerts
+![Wind Alerts](./screenshots/windalert.png)
+
+### 🕹️ UAV Control Panel
+![UAV Control Panel](./screenshots/uav%20control%20panel.png)
+
+### ❓ Help & User Guide
+![Help & User Guide](./screenshots/help.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
@@ -84,6 +109,16 @@ Output will be in the `dist/` directory.
 
 ```
 Sandra - UAV Monitoring System/
+├── Documentation/
+│   ├── README.md
+│   └── screenshots/
+│       ├── login.png
+│       ├── dashboard.png
+│       ├── reports.png
+│       ├── settings.png
+│       ├── windalert.png
+│       ├── uav control panel.png
+│       └── help.png
 ├── public/
 │   ├── uav.html          # Core UAV dashboard (single-file HUD)
 │   ├── holo/             # Holographic UI assets
@@ -107,9 +142,9 @@ Sandra - UAV Monitoring System/
 
 | Name | Role |
 |---|---|
-| **Affaq** | 23k-0901 |
-| **Amna** | 23k-0856 |
-| **Kissa** | 23k-0760 |
+| **Affaq** | Frontend Development, UI/UX Design |
+| **Amna** | UI/UX Collaboration, Feature Design |
+| **Kissa** | UI/UX Collaboration, Feature Design |
 
 ---
 
